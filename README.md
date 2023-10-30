@@ -28,7 +28,7 @@ Después de haber configurado las máquinas lo que haremos será comprobar que e
 ## 3.- Configuración Apache
 
 Una vez asegurado que todo está correctamente deberemos crear una carpeta en */var/www* para clonar el repositorio del ejercicio en su interior
-![](2.png)
+![image](https://github.com/Pelayo23/LampDosNivelesPelayo/assets/146436033/3d3ed47b-d0fc-40fd-8d07-4253fcfc39ff)
 ![](3.png)
 Después deberemos entrarnos en la carpeta *src* dentro de la carpeta que hemos clonado y moverlo a nuestra carpeta creada con anterioridad
 ![](4.png)
