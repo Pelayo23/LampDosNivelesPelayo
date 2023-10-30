@@ -23,7 +23,8 @@ Imagen mysql.sh
 Imagen Creación de Máquinas
 ![](Vagrantfile.png)
 Después de haber configurado las máquinas lo que haremos será comprobar que estas estan activas
-![](1.png)
+![image](https://github.com/Pelayo23/LampDosNivelesPelayo/assets/146436033/65a2a59c-7e23-4aa5-848a-17b8c3b244d9)
+
 ## 3.- Configuración Apache
 
 Una vez asegurado que todo está correctamente deberemos crear una carpeta en */var/www* para clonar el repositorio del ejercicio en su interior
