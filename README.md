@@ -17,7 +17,7 @@
 
 Lo primero que deberiamos realizar es la crecion de apache.sh y mysql.sh que serian los scripts de las maquinas correspondientes a Apache y Mysql
 Imagen apache.sh
-![](apache_sh.png)
+![](apache_sh.PNG)
 Imagen mysql.sh
 ![](mysql_sh.png)
 Imagen Creación de Máquinas
